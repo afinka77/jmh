@@ -11,3 +11,7 @@ HOW TO BUILD
 HOW TO RUN
 
 > java -jar target/benchmarks.jar
+
+HOW RESULTS LOOK LIKE
+
+![Results](/Results.jpg "Results")
